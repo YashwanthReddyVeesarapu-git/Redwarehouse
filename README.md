@@ -1,22 +1,21 @@
 # REDWAREHOUSE
 ##### A Motor Part Shop Software
 - ## Description
-The small automobile spare parts shop sells the spare parts for a vehicles of several makes and models. Also, each spare part is typically manufactured by several small industries. To stream line the sales and supply ordering, the shop owner has asked us to develop the following motor part shop software. So I name the software project as RedWarehouse. <br />
-REDWAREHOUSE deals with large number of motor parts of various manufacturers and various vehicle types. Some of the motor parts are very small and some are of reasonably large size. The shop ownermaintains different parts in wall mounted and numbered racks. The shop owner maintains as few inventory for each item as reasonable, to reduce inventory overheads after being inspired by the just-in-time (JIT) philosophy.
-
+The modest automobile spare parts company supplies parts for a variety of brands and models of vehicles. Furthermore, each spare part is often produced by a number of small businesses. The shop owner has asked us to design the following motor component shop software to streamline sales and supply ordering. As a result, I gave the software project the name "RedWarehouse". <br />
+REDWAREHOUSE handles a wide range of motor parts from a variety of manufacturers and vehicle kinds. Some motor parts are extremely small, while others are rather massive. Different parts are kept in wall-mounted, numbered racks by the shop's owner. After being inspired by the just-in-time (JIT) philosophy, the business owner maintains as little inventory as possible for each item to reduce inventory overheads.
 - ## Modules
 RedWarehouse
-Parent class which is executed to start the application
+This is the parent class that is used to launch the application.
 
 - ## Login
-Provides an username textfield and a password textfield. Shows an error notification on wrong credentials and success notification on successful authentication.
+In this page, A username textfield and a password textfield are provided. When the credentials are incorrect, it displays an error message, and when the authentication is successful, it displays a success message.
 
 - ## WelcomePage
-The page where the allowalble functions are present for different userClasses.
-All the available features are listed in this page which is displayed after successful login.
+The page that lists the available functions for various userClasses.
+This screen, which appears after a successful login, lists all of the accessible functions.
 
 - ## AddStock
-User can add a new motorPart into the inventory through this function, needs to enter relevant details of the part.
+A new motor part can be added by the user. This feature allows you to add a part to your inventory by entering necessary facts about the part.
 
 - ## Billing
 Handles the billing process when a part is sold from the shop.
