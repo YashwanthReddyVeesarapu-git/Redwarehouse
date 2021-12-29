@@ -1,7 +1,7 @@
 # REDWAREHOUSE
 ##### A Motor Part Shop Software
 - ## Description
-The modest automobile spare parts company supplies parts for a variety of brands and models of vehicles. Furthermore, each spare part is often produced by a number of small businesses. The shop owner has asked us to design the following motor component shop software to streamline sales and supply ordering. As a result, I gave the software project the name "RedWarehouse". <br />
+The modest automobile spare parts company supplies parts for a variety of brands and models of vehicles. Furthermore, each spare part is often produced by a number of small businesses. My Software Engineering Professor has asked me to design the following motor component shop software to streamline sales and supply ordering. As a result, I gave the software project the name "RedWarehouse". <br />
 REDWAREHOUSE handles a wide range of motor parts from a variety of manufacturers and vehicle kinds. Some motor parts are extremely small, while others are rather massive. Different parts are kept in wall-mounted, numbered racks by the shop's owner. After being inspired by the just-in-time (JIT) philosophy, the business owner maintains as little inventory as possible for each item to reduce inventory overheads.
 - ## Modules
 RedWarehouse
